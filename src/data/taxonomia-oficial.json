@@ -1,0 +1,3882 @@
+[
+  {
+    "area": "Clínica Médica",
+    "tema": "Cardiologia",
+    "assunto": "Hipertensão Arterial Sistêmica"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cardiologia",
+    "assunto": "Insuficiência Cardíaca"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cardiologia",
+    "assunto": "Síndrome Coronariana Aguda"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cardiologia",
+    "assunto": "DAC Crônica e Prevenção Secundária"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cardiologia",
+    "assunto": "Taquiarritmias"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cardiologia",
+    "assunto": "Bradiarritmias e Bloqueios AV"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cardiologia",
+    "assunto": "Valvopatias"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cardiologia",
+    "assunto": "Cardiomiopatias"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cardiologia",
+    "assunto": "Endocardite Infecciosa"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cardiologia",
+    "assunto": "Pericardiopatias"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cardiologia",
+    "assunto": "Dislipidemia e Risco Cardiovascular"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cardiologia",
+    "assunto": "Síndromes Aórticas Agudas"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Pneumologia",
+    "assunto": "Asma"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Pneumologia",
+    "assunto": "DPOC"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Pneumologia",
+    "assunto": "Pneumonias"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Pneumologia",
+    "assunto": "Tuberculose Pulmonar"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Pneumologia",
+    "assunto": "Derrame Pleural e Pneumotórax"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Pneumologia",
+    "assunto": "Tromboembolismo Pulmonar"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Pneumologia",
+    "assunto": "Pneumopatias Intersticiais"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Pneumologia",
+    "assunto": "SAHOS"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Pneumologia",
+    "assunto": "Câncer de Pulmão"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Gastroenterologia",
+    "assunto": "Doença do Refluxo Gastroesofágico"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Gastroenterologia",
+    "assunto": "Doença Ulcerosa Péptica"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Gastroenterologia",
+    "assunto": "Doenças Inflamatórias Intestinais"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Gastroenterologia",
+    "assunto": "Diarreia e Síndromes Disabsortivas"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Gastroenterologia",
+    "assunto": "Hemorragia Digestiva"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Gastroenterologia",
+    "assunto": "Pancreatite e Vias Biliares"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Gastroenterologia",
+    "assunto": "Cirrose e Complicações"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Gastroenterologia",
+    "assunto": "Hepatites Virais"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Gastroenterologia",
+    "assunto": "Doença Celíaca"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Nefrologia",
+    "assunto": "Glomerulopatias"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Nefrologia",
+    "assunto": "Injúria Renal Aguda"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Nefrologia",
+    "assunto": "Doença Renal Crônica"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Nefrologia",
+    "assunto": "Distúrbios Hidroeletrolíticos"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Nefrologia",
+    "assunto": "Distúrbios Ácido-Base"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Nefrologia",
+    "assunto": "Infecção Urinária e Nefrolitíase"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Nefrologia",
+    "assunto": "Hipertensão e Rim"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Endocrinologia",
+    "assunto": "Diabetes Mellitus"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Endocrinologia",
+    "assunto": "Doenças da Tireoide"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Endocrinologia",
+    "assunto": "Obesidade e Síndrome Metabólica"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Endocrinologia",
+    "assunto": "Distúrbios das Adrenais"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Endocrinologia",
+    "assunto": "Distúrbios Hipofisários"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Endocrinologia",
+    "assunto": "Osteoporose e Metabolismo Ósseo"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Hematologia",
+    "assunto": "Anemias"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Hematologia",
+    "assunto": "Distúrbios da Hemostasia e Coagulação"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Hematologia",
+    "assunto": "Distúrbios Plaquetários"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Hematologia",
+    "assunto": "Leucemias e Linfomas"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Hematologia",
+    "assunto": "Transfusão Sanguínea"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Infectologia",
+    "assunto": "HIV/Aids"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Infectologia",
+    "assunto": "Tuberculose"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Infectologia",
+    "assunto": "Arboviroses"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Infectologia",
+    "assunto": "Sepse e Infecções Graves"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Infectologia",
+    "assunto": "Antimicrobianos e Uso Racional"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Infectologia",
+    "assunto": "Meningites e Infecções do SNC"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Infectologia",
+    "assunto": "Doenças Negligenciadas e Parasitoses"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Infectologia",
+    "assunto": "Infecções Sexualmente Transmissíveis"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Infectologia",
+    "assunto": "Mononucleose Infecciosa"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Reumatologia",
+    "assunto": "Artrite Reumatoide"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Reumatologia",
+    "assunto": "Lúpus Eritematoso Sistêmico"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Reumatologia",
+    "assunto": "Espondiloartrites"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Reumatologia",
+    "assunto": "Vasculites"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Reumatologia",
+    "assunto": "Artrite por Cristais"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Reumatologia",
+    "assunto": "Fibromialgia e Síndromes Dolorosas"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Reumatologia",
+    "assunto": "Osteoartrite"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Neurologia",
+    "assunto": "Acidente Vascular Cerebral"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Neurologia",
+    "assunto": "Cefaleias"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Neurologia",
+    "assunto": "Epilepsia e Crises Convulsivas"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Neurologia",
+    "assunto": "Infecções do Sistema Nervoso Central"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Neurologia",
+    "assunto": "Distúrbios do Movimento e Demências"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Neurologia",
+    "assunto": "Neuropatias e Doenças Neuromusculares"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Neurologia",
+    "assunto": "Doenças Desmielinizantes"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Dermatologia",
+    "assunto": "Dermatoses Infecciosas"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Dermatologia",
+    "assunto": "Dermatoses Inflamatórias e Eczemas"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Dermatologia",
+    "assunto": "Neoplasias Cutâneas"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Dermatologia",
+    "assunto": "Hanseníase"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Dermatologia",
+    "assunto": "Psoríase"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Dermatologia",
+    "assunto": "Farmacodermias"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Psiquiatria",
+    "assunto": "Transtornos do Humor"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Psiquiatria",
+    "assunto": "Transtornos de Ansiedade"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Psiquiatria",
+    "assunto": "Esquizofrenia e Transtornos Psicóticos"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Psiquiatria",
+    "assunto": "Transtornos por Uso de Substâncias"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Psiquiatria",
+    "assunto": "Emergências Psiquiátricas"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Oncologia Clínica",
+    "assunto": "Princípios de Oncologia"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Oncologia Clínica",
+    "assunto": "Câncer de Mama"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Oncologia Clínica",
+    "assunto": "Câncer Colorretal"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Oncologia Clínica",
+    "assunto": "Câncer de Próstata"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Oncologia Clínica",
+    "assunto": "Emergências Oncológicas"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Geriatria",
+    "assunto": "Síndromes Geriátricas"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Geriatria",
+    "assunto": "Delirium e Demência"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Geriatria",
+    "assunto": "Polifarmácia"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Geriatria",
+    "assunto": "Sarcopenia e Nutrição no Idoso"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Geriatria",
+    "assunto": "Avaliação Geriátrica Ampla"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cuidados Paliativos",
+    "assunto": "Cuidados no Fim de Vida"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cuidados Paliativos",
+    "assunto": "Comunicação de Más Notícias"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cuidados Paliativos",
+    "assunto": "Manejo de Sintomas Paliativos"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Nutrologia",
+    "assunto": "Obesidade"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Nutrologia",
+    "assunto": "Desnutrição e Suporte Nutricional"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Nutrologia",
+    "assunto": "Deficiências Vitamínicas e Minerais"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Nutrologia",
+    "assunto": "Distúrbios Alimentares"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Alergia e Imunologia",
+    "assunto": "Rinite e Urticária Alérgicas"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Alergia e Imunologia",
+    "assunto": "Anafilaxia"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Alergia e Imunologia",
+    "assunto": "Imunodeficiências Primárias"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Otorrinolaringologia",
+    "assunto": "Faringotonsilites"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Otorrinolaringologia",
+    "assunto": "Rinossinusite"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Otorrinolaringologia",
+    "assunto": "Vertigem"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Oftalmologia Clínica",
+    "assunto": "Olho Vermelho"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Oftalmologia Clínica",
+    "assunto": "Glaucoma"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Oftalmologia Clínica",
+    "assunto": "Retinopatias"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Oftalmologia Clínica",
+    "assunto": "Catarata"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Medicina da Dor",
+    "assunto": "Lombalgia e Dor Musculoesquelética"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Medicina da Dor",
+    "assunto": "Dor Neuropática"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Medicina da Dor",
+    "assunto": "Dor Oncológica"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Medicina da Dor",
+    "assunto": "Farmacologia Analgésica"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Propedêutica e Raciocínio Clínico",
+    "assunto": "Semiologia Cardiovascular"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Propedêutica e Raciocínio Clínico",
+    "assunto": "Semiologia Respiratória"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Propedêutica e Raciocínio Clínico",
+    "assunto": "Semiologia Abdominal"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Propedêutica e Raciocínio Clínico",
+    "assunto": "Interpretação de Exames Laboratoriais"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Propedêutica e Raciocínio Clínico",
+    "assunto": "Raciocínio Clínico e Diagnóstico Diferencial"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Propedêutica e Raciocínio Clínico",
+    "assunto": "Anamnese e Exame Físico Geral"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Ética e Bioética",
+    "assunto": "Sigilo Médico e Documentação"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Ética e Bioética",
+    "assunto": "Consentimento Informado e Autonomia"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Ética e Bioética",
+    "assunto": "Princípios da Bioética"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Abdome Agudo"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Hérnias e Parede Abdominal"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Doença Biliar"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Pré e Pós-operatório"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Avaliação Pré-operatória"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Cicatrização e Estomas"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Cirurgia Bariátrica e do Esôfago-Estômago"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Trauma",
+    "assunto": "Trauma e ATLS"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Trauma",
+    "assunto": "Trauma Abdominal"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Trauma",
+    "assunto": "Trauma Torácico"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Trauma",
+    "assunto": "Trauma Vascular Periférico"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Trauma",
+    "assunto": "Traumatismo Cranioencefálico"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Trauma",
+    "assunto": "Queimaduras"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Trauma",
+    "assunto": "Choque Hemorrágico"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Oncológica",
+    "assunto": "Câncer Gástrico"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Oncológica",
+    "assunto": "Câncer Colorretal"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Oncológica",
+    "assunto": "Câncer de Vesícula Biliar"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Oncológica",
+    "assunto": "Neoplasia Testicular"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Coloproctologia",
+    "assunto": "Doença Diverticular"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Coloproctologia",
+    "assunto": "Doenças Anorretais"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Vascular",
+    "assunto": "Doença Venosa Crônica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Vascular",
+    "assunto": "Trombose Venosa Profunda"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Vascular",
+    "assunto": "Insuficiência Venosa Crônica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Vascular",
+    "assunto": "Doença Arterial Periférica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Urologia",
+    "assunto": "Cólica Renal e Litíase Urinária"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Urologia",
+    "assunto": "Hiperplasia Prostática Benigna"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Urologia",
+    "assunto": "Infecções Urológicas"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia de Cabeça e Pescoço",
+    "assunto": "Cabeça e Pescoço e Tórax"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Ortopedia e Traumatologia",
+    "assunto": "Fraturas"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Ortopedia e Traumatologia",
+    "assunto": "Luxações"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Ortopedia e Traumatologia",
+    "assunto": "Lesões Ligamentares"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Neurocirurgia",
+    "assunto": "Malformações e Hidrocefalia"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Neurocirurgia",
+    "assunto": "Tumores do Sistema Nervoso Central"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Neurocirurgia",
+    "assunto": "Mielomeningocele"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Oftalmologia",
+    "assunto": "Catarata"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Oftalmologia",
+    "assunto": "Glaucoma"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Assistência Pré-natal",
+    "assunto": "Diagnóstico e Mudanças Fisiológicas"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Assistência Pré-natal",
+    "assunto": "Datação da Idade Gestacional"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Assistência Pré-natal",
+    "assunto": "Rastreamento Pré-natal"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Trabalho de Parto e Parto",
+    "assunto": "Assistência ao Parto"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Trabalho de Parto e Parto",
+    "assunto": "Indução do Parto"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Trabalho de Parto e Parto",
+    "assunto": "Distócias do Trabalho de Parto"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Trabalho de Parto e Parto",
+    "assunto": "Cesárea e Parto Vaginal Após Cesárea"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Trabalho de Parto e Parto",
+    "assunto": "Parto Humanizado"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Doenças Hipertensivas na Gestação",
+    "assunto": "Pré-eclâmpsia"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Doenças Hipertensivas na Gestação",
+    "assunto": "Hipertensão Gestacional"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Doenças Hipertensivas na Gestação",
+    "assunto": "Eclâmpsia e Síndrome HELLP"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Diabetes Gestacional",
+    "assunto": "Diabetes Mellitus Gestacional"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Diabetes Gestacional",
+    "assunto": "Cetoacidose Diabética na Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Hemorragias da Gestação",
+    "assunto": "Gestação Ectópica"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Hemorragias da Gestação",
+    "assunto": "Abortamento"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Hemorragias da Gestação",
+    "assunto": "Doença Trofoblástica Gestacional"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Hemorragias da Gestação",
+    "assunto": "Descolamento Prematuro de Placenta"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Hemorragias da Gestação",
+    "assunto": "Placenta Prévia"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Infecções na Gestação e Puerpério",
+    "assunto": "Toxoplasmose na Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Infecções na Gestação e Puerpério",
+    "assunto": "Sífilis na Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Infecções na Gestação e Puerpério",
+    "assunto": "Infecção Urinária na Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Infecções na Gestação e Puerpério",
+    "assunto": "Infecção Puerperal"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Infecções na Gestação e Puerpério",
+    "assunto": "Dengue na Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Assistência Pré-natal",
+    "assunto": "Vacinação na Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Intercorrências Clínicas na Gestação",
+    "assunto": "Lúpus Eritematoso Sistêmico na Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Intercorrências Clínicas na Gestação",
+    "assunto": "Tireoidopatias na Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Intercorrências Clínicas na Gestação",
+    "assunto": "Outras Doenças Clínicas na Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Restrição de Crescimento Fetal e Doppler"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Isoimunização Rh"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Polidrâmnio"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Rotura Prematura de Membranas"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Trabalho de Parto Prematuro e Tocólise"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Parvovírus B19 na Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Puerpério e Aleitamento",
+    "assunto": "Fisiologia do Puerpério"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Hemorragias da Gestação",
+    "assunto": "Hemorragia Pós-parto"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Puerpério e Aleitamento",
+    "assunto": "Mastite Puerperal"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Puerpério e Aleitamento",
+    "assunto": "Aleitamento Materno"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Ciclo Menstrual e Endocrinologia Ginecológica",
+    "assunto": "Fisiologia da Ovulação"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Ciclo Menstrual e Endocrinologia Ginecológica",
+    "assunto": "Amenorreia"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Ciclo Menstrual e Endocrinologia Ginecológica",
+    "assunto": "Síndrome dos Ovários Policísticos"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Ciclo Menstrual e Endocrinologia Ginecológica",
+    "assunto": "Puberdade"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Sangramento Uterino e Dor Pélvica",
+    "assunto": "Sangramento Uterino Anormal"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Sangramento Uterino e Dor Pélvica",
+    "assunto": "Dismenorreia"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Sangramento Uterino e Dor Pélvica",
+    "assunto": "Endometriose"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Sangramento Uterino e Dor Pélvica",
+    "assunto": "Miomatose Uterina"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Sangramento Uterino e Dor Pélvica",
+    "assunto": "Patologia Ovariana"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Infecções Ginecológicas",
+    "assunto": "Vulvovaginites"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Infecções Ginecológicas",
+    "assunto": "Vaginose Bacteriana"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Infecções Ginecológicas",
+    "assunto": "Tricomoníase"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Infecções Ginecológicas",
+    "assunto": "Infecções Sexualmente Transmissíveis"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Infecções Ginecológicas",
+    "assunto": "Molusco Contagioso"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Planejamento Familiar",
+    "assunto": "Métodos Contraceptivos"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Planejamento Familiar",
+    "assunto": "Contraceptivos Orais Combinados"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Climatério e Menopausa",
+    "assunto": "Terapia Hormonal no Climatério"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Climatério e Menopausa",
+    "assunto": "Menopausa e Insuficiência Ovariana"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Climatério e Menopausa",
+    "assunto": "Sangramento Pós-menopausa"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Mastologia",
+    "assunto": "Descarga Papilar"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Mastologia",
+    "assunto": "BI-RADS"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Mastologia",
+    "assunto": "Patologia Mamária Benigna"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Oncologia Ginecológica",
+    "assunto": "Câncer de Mama"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Oncologia Ginecológica",
+    "assunto": "Câncer do Colo do Útero"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Oncologia Ginecológica",
+    "assunto": "Câncer de Ovário"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Oncologia Ginecológica",
+    "assunto": "Câncer Hereditário de Mama e Ovário"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Uroginecologia",
+    "assunto": "Incontinência Urinária"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Uroginecologia",
+    "assunto": "Prolapso Genital"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Uroginecologia",
+    "assunto": "Síndrome da Bexiga Hiperativa"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neonatologia",
+    "assunto": "Reanimação Neonatal"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neonatologia",
+    "assunto": "Icterícia Neonatal"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neonatologia",
+    "assunto": "Prematuridade"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neonatologia",
+    "assunto": "Triagem Neonatal"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Crescimento e Desenvolvimento",
+    "assunto": "Marcos do Desenvolvimento"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Crescimento e Desenvolvimento",
+    "assunto": "Calendário Vacinal"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Crescimento e Desenvolvimento",
+    "assunto": "Alimentação Infantil"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Nutrição e Aleitamento",
+    "assunto": "Aleitamento e Nutrição Infantil"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Imunizações",
+    "assunto": "Calendário Vacinal Pediátrico"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Doenças Infecciosas Pediátricas",
+    "assunto": "Doenças Exantemáticas"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Doenças Infecciosas Pediátricas",
+    "assunto": "Infecções Respiratórias na Infância"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Doenças Infecciosas Pediátricas",
+    "assunto": "Coqueluche"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Doenças Infecciosas Pediátricas",
+    "assunto": "Parasitoses Intestinais na Infância"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Doenças Infecciosas Pediátricas",
+    "assunto": "Arboviroses na Infância"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Pneumologia Pediátrica",
+    "assunto": "Asma na Infância"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Pneumologia Pediátrica",
+    "assunto": "Bronquiolite Viral Aguda"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Pneumologia Pediátrica",
+    "assunto": "Fibrose Cística"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Gastroenterologia Pediátrica",
+    "assunto": "Diarreia Aguda e Desidratação"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Gastroenterologia Pediátrica",
+    "assunto": "Constipação Intestinal Funcional"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Gastroenterologia Pediátrica",
+    "assunto": "Refluxo Gastroesofágico na Infância"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Gastroenterologia Pediátrica",
+    "assunto": "Esofagite Eosinofílica"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Cardiologia Pediátrica",
+    "assunto": "Cardiopatias Congênitas Acianóticas"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Cardiologia Pediátrica",
+    "assunto": "Cardiopatias Congênitas Cianóticas"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Cardiologia Pediátrica",
+    "assunto": "Circulação Fetal"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Endocrinologia Pediátrica",
+    "assunto": "Diabetes Mellitus Tipo 1"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Endocrinologia Pediátrica",
+    "assunto": "Puberdade Precoce e Tardia"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Endocrinologia Pediátrica",
+    "assunto": "Distúrbios do Crescimento"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Hematologia Pediátrica",
+    "assunto": "Anemia Falciforme"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neurologia Pediátrica",
+    "assunto": "Convulsões na Infância"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neurologia Pediátrica",
+    "assunto": "Síndrome de Guillain-Barré"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Emergências e Procedimentos Pediátricos",
+    "assunto": "Reanimação e Suporte de Vida Pediátrico"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Emergências e Procedimentos Pediátricos",
+    "assunto": "Via Aérea em Pediatria"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Emergências e Procedimentos Pediátricos",
+    "assunto": "Triagem Pediátrica"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Atendimento Pré-hospitalar e Regulação",
+    "assunto": "Regulação Médica de Urgência"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Atendimento Pré-hospitalar e Regulação",
+    "assunto": "Transporte Aeromédico"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Atendimento Pré-hospitalar e Regulação",
+    "assunto": "Via Aérea no Resgate e Extricação"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Triagem e Classificação de Risco",
+    "assunto": "Protocolo de Manchester"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Triagem e Classificação de Risco",
+    "assunto": "Fast-track e Fluxo do Pronto-Socorro"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Suporte Básico e Avançado de Vida",
+    "assunto": "RCP e Parada Cardiorrespiratória"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Suporte Básico e Avançado de Vida",
+    "assunto": "Algoritmos de ACLS/PALS"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Via Aérea e Ventilação Mecânica",
+    "assunto": "Sequência Rápida de Intubação"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Via Aérea e Ventilação Mecânica",
+    "assunto": "Modos Ventilatórios e Assincronias"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Via Aérea e Ventilação Mecânica",
+    "assunto": "Ventilação Não Invasiva"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Choque e Suporte Hemodinâmico",
+    "assunto": "Classificação e Reconhecimento do Choque"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Choque e Suporte Hemodinâmico",
+    "assunto": "Fluidoterapia e Fluidorresponsividade"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Choque e Suporte Hemodinâmico",
+    "assunto": "Monitorização Hemodinâmica Invasiva"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Toxicologia e Intoxicações",
+    "assunto": "Síndromes Toxicológicas"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Toxicologia e Intoxicações",
+    "assunto": "Antídotos Específicos"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Toxicologia e Intoxicações",
+    "assunto": "Envenenamento por Animais Peçonhentos"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "POCUS",
+    "assunto": "Ultrassom Point-of-Care"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Emergências Ambientais",
+    "assunto": "Afogamento"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Emergências Ambientais",
+    "assunto": "Hipotermia e Doença da Altitude"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Emergências Ambientais",
+    "assunto": "Trauma Elétrico"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Desastres e Múltiplas Vítimas",
+    "assunto": "Comando de Incidentes"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Desastres e Múltiplas Vítimas",
+    "assunto": "Triagem em Massa"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Procedimentos de Emergência",
+    "assunto": "Acessos Vasculares Guiados por Ultrassom"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Procedimentos de Emergência",
+    "assunto": "Drenagens e Punções"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "SUS e Políticas de Saúde",
+    "assunto": "Legislação do SUS"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "SUS e Políticas de Saúde",
+    "assunto": "Princípios e Diretrizes do SUS"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Medicina de Família e Comunidade",
+    "assunto": "Atenção Primária à Saúde"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Medicina de Família e Comunidade",
+    "assunto": "Prevenção Quaternária"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Medicina de Família e Comunidade",
+    "assunto": "Longitudinalidade e Vínculo"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Medicina de Família e Comunidade",
+    "assunto": "Rastreamento em Atenção Primária"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Epidemiologia e Bioestatística",
+    "assunto": "Medidas de Frequência e Associação"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Epidemiologia e Bioestatística",
+    "assunto": "Delineamento de Estudos"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Epidemiologia e Bioestatística",
+    "assunto": "Testes Diagnósticos"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Saúde Coletiva e Vigilância em Saúde",
+    "assunto": "Vigilância Epidemiológica e Notificação"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Saúde Coletiva e Vigilância em Saúde",
+    "assunto": "Doenças de Notificação Compulsória"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Indicadores de Saúde",
+    "assunto": "Indicadores de Morbimortalidade"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Bioética e Medicina Legal",
+    "assunto": "Consentimento Informado e Autonomia"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Bioética e Medicina Legal",
+    "assunto": "Sigilo Médico"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Bioética e Medicina Legal",
+    "assunto": "Documentos Médico-legais"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Saúde do Trabalhador",
+    "assunto": "Medicina do Trabalho"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Saúde do Trabalhador",
+    "assunto": "Doenças Ocupacionais"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Administração em Saúde e Gestão",
+    "assunto": "Gestão de Serviços de Saúde"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Administração em Saúde e Gestão",
+    "assunto": "Segurança do Paciente"
+  },
+  {
+    "area": "Anestesiologia",
+    "tema": "Anestesiologia",
+    "assunto": "Avaliação Pré-anestésica"
+  },
+  {
+    "area": "Anestesiologia",
+    "tema": "Anestesiologia",
+    "assunto": "Anestésicos Locais"
+  },
+  {
+    "area": "Anestesiologia",
+    "tema": "Anestesiologia",
+    "assunto": "Anestesia Geral e Regional"
+  },
+  {
+    "area": "Anestesiologia",
+    "tema": "Anestesiologia",
+    "assunto": "Complicações Anestésicas"
+  },
+  {
+    "area": "Conhecimentos Gerais",
+    "tema": "Língua Portuguesa",
+    "assunto": "Interpretação de Texto"
+  },
+  {
+    "area": "Conhecimentos Gerais",
+    "tema": "Língua Portuguesa",
+    "assunto": "Gramática"
+  },
+  {
+    "area": "Conhecimentos Gerais",
+    "tema": "Legislação EBSERH",
+    "assunto": "Legislação EBSERH"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cardiologia",
+    "assunto": "Fibrilação Atrial: Estratificação e Anticoagulação"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cardiologia",
+    "assunto": "Pericardite e Doenças do Pericárdio"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cardiologia",
+    "assunto": "Embolia Pulmonar: Cor Pulmonale e Repercussão Hemodinâmica"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cardiologia",
+    "assunto": "Síncope"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Gastroenterologia",
+    "assunto": "Doenças Biliares e Pancreatite Aguda"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Gastroenterologia",
+    "assunto": "Doença Inflamatória Intestinal e Diverticulite"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Gastroenterologia",
+    "assunto": "Úlcera Péptica e H. pylori"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Gastroenterologia",
+    "assunto": "Hepatite Autoimune e Hepatopatia Viral Crônica"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Gastroenterologia",
+    "assunto": "Diarreia Aguda e Crônica"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Infectologia",
+    "assunto": "Infecções Bacterianas Sistêmicas e Nosocomiais"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Infectologia",
+    "assunto": "Sepse: Etiologia, Diagnóstico e Antibioticoterapia"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Infectologia",
+    "assunto": "Hepatites Virais: Diagnóstico, Tratamento e Profilaxia"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Infectologia",
+    "assunto": "Meningites e Encefalites no Adulto: Antibiótico Empírico e Janela Terapêutica"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Infectologia",
+    "assunto": "Infecções Oportunistas no HIV"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Infectologia",
+    "assunto": "Parasitoses e Doenças Tropicais"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Infectologia",
+    "assunto": "Retroviroses e Infecções Virais Crônicas"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Endocrinologia",
+    "assunto": "Metabolismo Ósseo e Mineral"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Endocrinologia",
+    "assunto": "Complicações Agudas do DM"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Endocrinologia",
+    "assunto": "Doenças da Adrenal"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Endocrinologia",
+    "assunto": "Insuficiência Adrenal Aguda e Crise Addisoniana"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Endocrinologia",
+    "assunto": "Emergências Tireoidianas: Crise Tireotóxica e Coma Mixedematoso"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Pneumologia",
+    "assunto": "DPOC: Manejo e Exacerbação"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Pneumologia",
+    "assunto": "Pneumonia Adquirida na Comunidade"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Pneumologia",
+    "assunto": "Derrame Pleural: Investigação e Manejo Clínico"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Pneumologia",
+    "assunto": "TEP: Diagnóstico, Estratificação e Anticoagulação"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Pneumologia",
+    "assunto": "Exacerbação de Asma e DPOC: VNI e Manejo"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Pneumologia",
+    "assunto": "Pneumonia Associada à Assistência à Saúde"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Pneumologia",
+    "assunto": "SAHOS (Apneia Obstrutiva do Sono)"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Nefrologia",
+    "assunto": "Insuficiência Renal Aguda"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Nefrologia",
+    "assunto": "Infecção do Trato Urinário"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Nefrologia",
+    "assunto": "Terapia Renal Substitutiva: Urgências Dialíticas e Acesso"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Neurologia",
+    "assunto": "AVC Isquêmico"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Neurologia",
+    "assunto": "Doenças Neurodegenerativas (Parkinson, ELA, Ataxias)"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Neurologia",
+    "assunto": "Coma e Alterações da Consciência"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Neurologia",
+    "assunto": "AVC Hemorrágico"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Neurologia",
+    "assunto": "Epilepsia no Adulto"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Neurologia",
+    "assunto": "Estado de Mal Epiléptico: Algoritmo e Manejo da Via Aérea"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Reumatologia",
+    "assunto": "Autoimunes Sistêmicas: Esclerose, Sjögren e Miopatias"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Reumatologia",
+    "assunto": "Gota e Doenças por Cristais"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Hematologia",
+    "assunto": "Tromboses"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Hematologia",
+    "assunto": "Coagulopatias"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Hematologia",
+    "assunto": "Gamopatias Monoclonais"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Hematologia",
+    "assunto": "Transfusão e Reações Transfusionais: Indicações e Eventos Adversos"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Hematologia",
+    "assunto": "Leucemias no Adulto"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Propedêutica e Raciocínio Clínico",
+    "assunto": "Semiologia e Propedêutica"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Propedêutica e Raciocínio Clínico",
+    "assunto": "Interpretação de Exames Complementares"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Propedêutica e Raciocínio Clínico",
+    "assunto": "Febre de Origem Indeterminada e Síndromes Febris"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Oncologia Clínica",
+    "assunto": "Tumores Sólidos Frequentes"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Oncologia Clínica",
+    "assunto": "Rastreamento e Prevenção de Câncer"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Oncologia Clínica",
+    "assunto": "Quimioterapia e Efeitos Adversos"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Oncologia Clínica",
+    "assunto": "Dor e Cuidados de Suporte"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Dermatologia",
+    "assunto": "Lesões Cutâneas Malignas"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Dermatologia",
+    "assunto": "Acne e Rosácea"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Procedimentos de Emergência",
+    "assunto": "Parada Cardiorrespiratória no Adulto"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Procedimentos de Emergência",
+    "assunto": "Choque: Reconhecimento e Protocolo Inicial"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Procedimentos de Emergência",
+    "assunto": "Trauma: Avaliação Inicial e ATLS"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Procedimentos de Emergência",
+    "assunto": "Intoxicações: Estabilização Inicial e Antídotos de Primeira Hora"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Procedimentos de Emergência",
+    "assunto": "POCUS: Point-of-Care Ultrasound na Emergência"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Procedimentos de Emergência",
+    "assunto": "Sepse e Choque Séptico: Bundles de 1 e 3 Horas, Fonte e Metas"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Procedimentos de Emergência",
+    "assunto": "Ventilação Mecânica"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Procedimentos de Emergência",
+    "assunto": "Choque: Vasopressores, Monitorização Avançada e Metas Hemodinâmicas"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Procedimentos de Emergência",
+    "assunto": "Síndrome do Desconforto Respiratório Agudo (SDRA)"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Procedimentos de Emergência",
+    "assunto": "Suporte Hemodinâmico"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Procedimentos de Emergência",
+    "assunto": "Sedação e Analgesia"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Nutrologia",
+    "assunto": "Terapia Nutricional e Suporte"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Nutrologia",
+    "assunto": "Síndrome de Realimentação: Identificação de Risco e Prevenção"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Nutrologia",
+    "assunto": "Transtornos Alimentares no Adulto"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Toxicologia e Intoxicações",
+    "assunto": "Intoxicação por Medicamentos"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Toxicologia e Intoxicações",
+    "assunto": "Envenenamentos"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Toxicologia e Intoxicações",
+    "assunto": "Intoxicação por Drogas de Abuso"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Toxicologia e Intoxicações",
+    "assunto": "Intoxicação Alcoólica"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Toxicologia e Intoxicações",
+    "assunto": "Intoxicação por Agrotóxicos"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Psiquiatria",
+    "assunto": "Transtornos de Humor"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Psiquiatria",
+    "assunto": "Dependência Química"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Psiquiatria",
+    "assunto": "Risco de Suicídio e Manejo da Crise: Avaliação e Medidas de Segurança"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cuidados Paliativos",
+    "assunto": "Cuidados de Fim de Vida"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cuidados Paliativos",
+    "assunto": "Controle de Sintomas"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cuidados Paliativos",
+    "assunto": "Controle da Dor"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cuidados Paliativos",
+    "assunto": "Comunicação e Aspectos Éticos"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Cuidados Paliativos",
+    "assunto": "Suporte à Família e Luto"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Alergia e Imunologia",
+    "assunto": "Reações de Hipersensibilidade (Tipos I a IV)"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Alergia e Imunologia",
+    "assunto": "Imunodeficiências e Imunologia Básica"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Alergia e Imunologia",
+    "assunto": "Urticária e Angioedema no Adulto"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Alergia e Imunologia",
+    "assunto": "Rinite Alérgica"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Ética e Bioética",
+    "assunto": "Bioética Clínica: Autonomia, Beneficência e Dilemas"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Ética e Bioética",
+    "assunto": "Código de Ética Médica: Aplicação na Prática Clínica"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Ética e Bioética",
+    "assunto": "Sigilo e Confidencialidade"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Oftalmologia Clínica",
+    "assunto": "Traumas Oculares"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Oftalmologia Clínica",
+    "assunto": "Uveítes e Doenças Inflamatórias"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Otorrinolaringologia",
+    "assunto": "Otites e Infecções do Ouvido"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Otorrinolaringologia",
+    "assunto": "Faringoamigdalites"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Otorrinolaringologia",
+    "assunto": "Epistaxe"
+  },
+  {
+    "area": "Clínica Médica",
+    "tema": "Otorrinolaringologia",
+    "assunto": "Corpos Estranhos em Vias Aéreas"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Crescimento e Desenvolvimento",
+    "assunto": "Crescimento e Desenvolvimento"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Crescimento e Desenvolvimento",
+    "assunto": "Aleitamento Materno"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Crescimento e Desenvolvimento",
+    "assunto": "Vacinas: Indicações, Contraindicações e Eventos Adversos"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Crescimento e Desenvolvimento",
+    "assunto": "Suplementação de Ferro e Vitamina D por Faixa Etária"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Crescimento e Desenvolvimento",
+    "assunto": "Alimentação Complementar"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Crescimento e Desenvolvimento",
+    "assunto": "Segurança da Criança e Prevenção de Acidentes"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neonatologia",
+    "assunto": "Sífilis Congênita e Infecção por CMV"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neonatologia",
+    "assunto": "Infecções Congênitas TORCH"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neonatologia",
+    "assunto": "Sepse Neonatal Precoce e Tardia: Protocolos e Antibiótico"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neonatologia",
+    "assunto": "Distúrbios Metabólicos do RN"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neonatologia",
+    "assunto": "Malformações Congênitas e Defeitos de Parede Abdominal Neonatal"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neonatologia",
+    "assunto": "Distúrbios Respiratórios Neonatais Avançados"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neonatologia",
+    "assunto": "Síndrome do Desconforto Respiratório do RN: CPAP e Surfactante"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neonatologia",
+    "assunto": "Enterocolite Necrosante: Risco e Manejo"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neonatologia",
+    "assunto": "Kernicterus e Encefalopatia Bilirrubínica"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neonatologia",
+    "assunto": "Principais Síndromes Genéticas Neonatais"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Doenças Infecciosas Pediátricas",
+    "assunto": "Meningites"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Doenças Infecciosas Pediátricas",
+    "assunto": "Infecções de Vias Aéreas Superiores: OMA e Sinusite Bacteriana"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Doenças Infecciosas Pediátricas",
+    "assunto": "Gastroenterites"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Doenças Infecciosas Pediátricas",
+    "assunto": "Tuberculose Pediátrica"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Doenças Infecciosas Pediátricas",
+    "assunto": "Prevenção de Doenças Transmitidas por Vetores e Reações a Picadas de Insetos"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Doenças Infecciosas Pediátricas",
+    "assunto": "Parasitoses Intestinais Pediátricas"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Pneumologia Pediátrica",
+    "assunto": "Pneumonia Pediátrica"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Pneumologia Pediátrica",
+    "assunto": "Asma: Crise Aguda e Manejo na Emergência Pediátrica"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Pneumologia Pediátrica",
+    "assunto": "Coqueluche (Pertussis)"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Pneumologia Pediátrica",
+    "assunto": "Crupe, Laringotraqueíte e Estridor Agudo"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Pneumologia Pediátrica",
+    "assunto": "Prevenção do VSR: Nirsevimabe e Palivizumabe"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Hematologia Pediátrica",
+    "assunto": "Anemias Pediátricas"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Hematologia Pediátrica",
+    "assunto": "Leucemias Pediátricas"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Hematologia Pediátrica",
+    "assunto": "Doença Falciforme: Triagem Neonatal, Crises e Profilaxias"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Hematologia Pediátrica",
+    "assunto": "Púrpuras e Plaquetopenia"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Hematologia Pediátrica",
+    "assunto": "Hemofilia e Coagulopatias"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Gastroenterologia Pediátrica",
+    "assunto": "Desidratação na GECA: TRO e Hidratação Venosa"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Gastroenterologia Pediátrica",
+    "assunto": "Constipação Funcional e Dor Abdominal Recorrente"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Gastroenterologia Pediátrica",
+    "assunto": "Intussuscepção: Diagnóstico por US e Enema Terapêutico"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Gastroenterologia Pediátrica",
+    "assunto": "Alergia à Proteína do Leite de Vaca: Fenótipo IgE e Não IgE"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Gastroenterologia Pediátrica",
+    "assunto": "Doença Celíaca"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Endocrinologia Pediátrica",
+    "assunto": "Baixa Estatura"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Endocrinologia Pediátrica",
+    "assunto": "Desordens do Desenvolvimento Sexual"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Endocrinologia Pediátrica",
+    "assunto": "Hipotireoidismo Congênito"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Emergências e Procedimentos Pediátricos",
+    "assunto": "Trauma Pediátrico"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Emergências e Procedimentos Pediátricos",
+    "assunto": "Intoxicações Pediátricas"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Emergências e Procedimentos Pediátricos",
+    "assunto": "Choque Pediátrico: Reconhecimento e Estabilização"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Emergências e Procedimentos Pediátricos",
+    "assunto": "Febre sem Foco de 0 a 36 Meses: Estratificação de Risco e Condutas"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Emergências e Procedimentos Pediátricos",
+    "assunto": "Corpo Estranho em Via Aérea: Aspiração e Desobstrução"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Emergências e Procedimentos Pediátricos",
+    "assunto": "PCR Pediátrica: PALS e Ressuscitação"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Emergências e Procedimentos Pediátricos",
+    "assunto": "Urticária e Angioedema Pediátricos"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Emergências e Procedimentos Pediátricos",
+    "assunto": "Síndrome Morte Súbita do Lactente (SMSL)"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Nefrologia Pediátrica",
+    "assunto": "Infecção Urinária na Criança"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Nefrologia Pediátrica",
+    "assunto": "Glomerulonefrite Pós-Estreptocócica: Diagnóstico e Conduta"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Nefrologia Pediátrica",
+    "assunto": "Síndrome Nefrótica na Infância: Corticossensível e Recaídas"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Nefrologia Pediátrica",
+    "assunto": "Síndrome Hemolítico-Urêmica"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Nefrologia Pediátrica",
+    "assunto": "Glomerulopatias Pediátricas (Nefropatia por IgA, Membranosa)"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Nefrologia Pediátrica",
+    "assunto": "Refluxo Vesicoureteral"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Nefrologia Pediátrica",
+    "assunto": "Enurese Noturna"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Reumatologia Pediátrica",
+    "assunto": "Febre Reumática"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Reumatologia Pediátrica",
+    "assunto": "Doença de Kawasaki"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Reumatologia Pediátrica",
+    "assunto": "Púrpura de Henoch-Schönlein"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Reumatologia Pediátrica",
+    "assunto": "Artrite Idiopática Juvenil"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Reumatologia Pediátrica",
+    "assunto": "Síndrome Inflamatória Multissistêmica Pediátrica"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Reumatologia Pediátrica",
+    "assunto": "Lúpus Eritematoso Sistêmico Pediátrico"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Reumatologia Pediátrica",
+    "assunto": "Dor Musculoesquelética na Criança"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neurologia Pediátrica",
+    "assunto": "Convulsões Febris"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neurologia Pediátrica",
+    "assunto": "Epilepsia Pediátrica"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neurologia Pediátrica",
+    "assunto": "Meningites e Encefalites"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neurologia Pediátrica",
+    "assunto": "Transtornos do Neurodesenvolvimento"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neurologia Pediátrica",
+    "assunto": "Cefaleia na Infância"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Neurologia Pediátrica",
+    "assunto": "Paralisia Cerebral: Classificação GMFCS e Comorbidades"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Cardiologia Pediátrica",
+    "assunto": "Arritmias Cardíacas Pediátricas"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Cardiologia Pediátrica",
+    "assunto": "Sopros Cardíacos na Criança"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Emergências e Procedimentos Pediátricos",
+    "assunto": "Sepse e Choque Séptico Pediátrico"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Emergências e Procedimentos Pediátricos",
+    "assunto": "PCR Pediátrica: Cuidados Pós-Parada"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Emergências e Procedimentos Pediátricos",
+    "assunto": "Insuficiência Respiratória Aguda"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Emergências e Procedimentos Pediátricos",
+    "assunto": "Choque Pediátrico: Manejo Intensivo"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Emergências e Procedimentos Pediátricos",
+    "assunto": "Convulsões e Status Epilepticus"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Adolescência",
+    "assunto": "Puberdade e Desenvolvimento Puberal"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Adolescência",
+    "assunto": "Saúde Mental do Adolescente"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Adolescência",
+    "assunto": "Saúde Sexual e Reprodutiva"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Adolescência",
+    "assunto": "Contracepção na Adolescência: Aconselhamento e ISTs"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Adolescência",
+    "assunto": "Transtornos Alimentares na Adolescência"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Distúrbios Genéticos e Metabólicos",
+    "assunto": "Síndromes Genéticas Comuns"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Distúrbios Genéticos e Metabólicos",
+    "assunto": "Erros Inatos do Metabolismo"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Distúrbios Genéticos e Metabólicos",
+    "assunto": "Distúrbios Cromossômicos"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Dermatologia Pediátrica",
+    "assunto": "Dermatite Atópica: Critérios de Hanifin-Rajka e Manejo"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Dermatologia Pediátrica",
+    "assunto": "Escabiose e Pediculose"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Dermatologia Pediátrica",
+    "assunto": "Impetigo"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Dermatologia Pediátrica",
+    "assunto": "Dermatite Seborreica"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Imunologia e Alergia Pediátrica",
+    "assunto": "Alergias Alimentares e Anafilaxia"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Imunologia e Alergia Pediátrica",
+    "assunto": "Imunodeficiências Primárias"
+  },
+  {
+    "area": "Pediatria",
+    "tema": "Imunologia e Alergia Pediátrica",
+    "assunto": "Rinite Alérgica e Rinossinusites"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Epidemiologia e Bioestatística",
+    "assunto": "Epidemiologia"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "SUS e Políticas de Saúde",
+    "assunto": "Sistema Único de Saúde"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Saúde Coletiva e Vigilância em Saúde",
+    "assunto": "Vigilância em Saúde"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "SUS e Políticas de Saúde",
+    "assunto": "Políticas Públicas de Saúde"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Imunizações",
+    "assunto": "Imunizações do Adulto"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Epidemiologia e Bioestatística",
+    "assunto": "Estudos Epidemiológicos e Medidas de Associação"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Bioética e Medicina Legal",
+    "assunto": "Ética Médica e Bioética"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Medicina de Família e Comunidade",
+    "assunto": "Prevenção de Doenças Crônicas"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Bioética e Medicina Legal",
+    "assunto": "Medicina Legal e Perícias"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Epidemiologia e Bioestatística",
+    "assunto": "Bioestatística"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Epidemiologia e Bioestatística",
+    "assunto": "Medicina Baseada em Evidências"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Saúde Mental Coletiva",
+    "assunto": "Saúde Mental Coletiva"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Medicina de Família e Comunidade",
+    "assunto": "Saúde do Idoso"
+  },
+  {
+    "area": "Medicina Preventiva e Social",
+    "tema": "Medicina de Família e Comunidade",
+    "assunto": "Saúde da Criança"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Apendicite Aguda: Diagnóstico, Escore de Alvarado, Tratamento"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Colecistite Aguda e Crônica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Técnicas e Procedimentos Cirúrgicos"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Diverticulite Complicada"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Obstrução Intestinal: Manejo e Indicação Cirúrgica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Pólipos e Síndromes Polipoides"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Acalasia"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Coledocolitíase"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Pancreatite Aguda: Necrose, Pseudocisto e Infecção"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Colangite"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Perfuração Esofágica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "DRGE Cirúrgica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Úlcera Péptica Complicada"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Lesão Iatrogênica de Via Biliar"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Perfuração Gastroduodenal"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "HDA: Abordagem Cirúrgica e Hemostasia"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Pancreatite Crônica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Esplenectomia e Doenças Esplênicas"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Doença de Crohn: Indicações e Técnicas Cirúrgicas"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Queimaduras Cáusticas do Esôfago"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Megacólon Chagásico"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Obstrução da Saída Gástrica"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Procedimentos de Emergência",
+    "assunto": "Protocolos de Atendimento ao Trauma (ATLS)"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Trauma",
+    "assunto": "Choque no Trauma"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Procedimentos de Emergência",
+    "assunto": "Atendimento ao Politraumatizado"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Trauma",
+    "assunto": "Trauma Raquimedular Agudo (Inicial)"
+  },
+  {
+    "area": "Medicina de Emergência e Terapia Intensiva",
+    "tema": "Procedimentos de Emergência",
+    "assunto": "FAST e Ultrassonografia no Trauma"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Cicatrização e Feridas"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Técnica Cirúrgica e Instrumentação"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Propedêutica Cirúrgica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Resposta Endócrino-Metabólica ao Trauma (REMIT)"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Nutrição Cirúrgica (Enteral e Parenteral)"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Distúrbios Hidroeletrolíticos e Ácido-Base"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "ERAS (Enhanced Recovery After Surgery)"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Cirurgia Minimamente Invasiva e Robótica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Manejo Perioperatório de Anticoagulantes e Antiagregantes"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Profilaxia Tromboembólica Perioperatória"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Hemostasia e Hemoterapia no Paciente Cirúrgico"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Suporte Metabólico e Nutricional no Trauma"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Complicações do Pneumoperitônio"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Complicações Pós-operatórias"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Oncológica",
+    "assunto": "Câncer de Pâncreas"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Oncológica",
+    "assunto": "Câncer de Esôfago"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Oncológica",
+    "assunto": "Tumores Neuroendócrinos"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Oncológica",
+    "assunto": "Sarcomas de Partes Moles"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Oncológica",
+    "assunto": "Carcinoma Hepatocelular"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Oncológica",
+    "assunto": "Melanoma: Estadiamento e Biópsia de Linfonodo Sentinela"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Oncológica",
+    "assunto": "Câncer de Mama: Cirurgia Oncológica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Oncológica",
+    "assunto": "Tumores de Tireoide"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Oncológica",
+    "assunto": "Metástases Hepáticas"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Hérnias: Conceitos, Classificação e Diagnóstico"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Hérnia Inguinal: Técnicas de Reparo (Lichtenstein, TEP, TAPP)"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Hérnia Inguinal: Direta vs Indireta"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Anatomia da Parede Abdominal e Canal Inguinal"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Hérnia Encarcerada e Estrangulada: Urgência Cirúrgica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Hérnia Femoral"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Hérnia Incisional e Ventral: Diagnóstico e Tratamento"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Hérnias Raras: Spiegel, Obturatória, Lombar"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Hérnia Umbilical e Epigástrica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Pediátrica",
+    "assunto": "Hérnias e Massas Abdominais"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Pediátrica",
+    "assunto": "Malformações Congênitas"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Pediátrica",
+    "assunto": "Estenose Hipertrófica de Piloro"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Pediátrica",
+    "assunto": "Abdome Agudo em Pediatria"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Pediátrica",
+    "assunto": "Anomalias do Trato Urinário"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Pediátrica",
+    "assunto": "Doença de Hirschsprung"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Pediátrica",
+    "assunto": "Traumas na Infância"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Pediátrica",
+    "assunto": "Atresias Intestinais"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Pediátrica",
+    "assunto": "Atresia de Esôfago e Fístula Traqueoesofágica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Pediátrica",
+    "assunto": "Hérnia Diafragmática Congênita"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Pediátrica",
+    "assunto": "Invaginação Intestinal: Manejo Cirúrgico e Complicações"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Pediátrica",
+    "assunto": "Defeitos de Fechamento da Parede Abdominal"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Pediátrica",
+    "assunto": "Má-Rotação Intestinal e Vólvulo"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Urologia",
+    "assunto": "Trauma Geniturinário"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Urologia",
+    "assunto": "Litíase Urinária: Diagnóstico e Abordagem"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Urologia",
+    "assunto": "Afecções Escrotais Agudas: Torção, Orquite, Epididimite"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Urologia",
+    "assunto": "Câncer de Próstata: Rastreamento e Estadiamento"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Urologia",
+    "assunto": "Câncer de Bexiga: TU Superficial vs Músculo-Invasivo"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Urologia",
+    "assunto": "Câncer de Testículo e Tumores de Células Germinativas"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Urologia",
+    "assunto": "Tumores Renais: Carcinoma de Células Renais"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Urologia",
+    "assunto": "Infecções Urinárias Complicadas"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Urologia",
+    "assunto": "Câncer de Próstata: Tratamento Cirúrgico"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Urologia",
+    "assunto": "Estenose Uretral, Fístulas e Trauma Uretral"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Vascular",
+    "assunto": "Isquemia de Membro Aguda e Crônica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Vascular",
+    "assunto": "Aneurismas"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Vascular",
+    "assunto": "Tromboembolismo Venoso (TEV)"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Vascular",
+    "assunto": "Trauma Vascular"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Vascular",
+    "assunto": "Dissecção Aórtica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Infecção de Sítio Cirúrgico"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Antibioticoprofilaxia Cirúrgica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Fascite Necrosante e Gangrena"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Tétano"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Sepse no Paciente Cirúrgico"
+  },
+  {
+    "area": "Anestesiologia",
+    "tema": "Anestesiologia",
+    "assunto": "Farmacologia Anestésica"
+  },
+  {
+    "area": "Anestesiologia",
+    "tema": "Anestesiologia",
+    "assunto": "Via Aérea Difícil"
+  },
+  {
+    "area": "Anestesiologia",
+    "tema": "Anestesiologia",
+    "assunto": "Bloqueios Anestésicos Regionais"
+  },
+  {
+    "area": "Anestesiologia",
+    "tema": "Anestesiologia",
+    "assunto": "Tipos de Anestesia"
+  },
+  {
+    "area": "Anestesiologia",
+    "tema": "Anestesiologia",
+    "assunto": "Relaxantes Musculares"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Coloproctologia",
+    "assunto": "Doença Hemorroidária"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Coloproctologia",
+    "assunto": "Fístulas e Abscessos Anorretais"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Coloproctologia",
+    "assunto": "Fissura Anal"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Coloproctologia",
+    "assunto": "Câncer Anal"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Coloproctologia",
+    "assunto": "Estenoses e Complicações Anastomóticas"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Coloproctologia",
+    "assunto": "Doença Pilonidal"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Coloproctologia",
+    "assunto": "Distúrbios do Assoalho Pélvico"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Coloproctologia",
+    "assunto": "Prolapso Retal"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Tratamento Cirúrgico da Obesidade"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Complicações da Cirurgia Bariátrica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Bypass Gástrico em Y-de-Roux"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Cirurgias Restritivas"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Cirurgia Metabólica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Cirurgias Disabsortivas"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia de Cabeça e Pescoço",
+    "assunto": "Cirurgia da Tireoide: Bócio e Neoplasias"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia de Cabeça e Pescoço",
+    "assunto": "Tumores de Cabeça e Pescoço"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia de Cabeça e Pescoço",
+    "assunto": "Massas Cervicais"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia de Cabeça e Pescoço",
+    "assunto": "Doenças das Glândulas Salivares"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia de Cabeça e Pescoço",
+    "assunto": "Doenças das Paratireoides"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Torácica",
+    "assunto": "Pneumotórax"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Torácica",
+    "assunto": "Mediastino"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Torácica",
+    "assunto": "Toracotomia de Emergência"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Torácica",
+    "assunto": "Câncer de Pulmão: Ressecção e Estadiamento Cirúrgico"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Torácica",
+    "assunto": "Derrame Pleural: Drenagem e Abordagem Cirúrgica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Plástica e Reparadora",
+    "assunto": "Enxertos e Retalhos Cutâneos"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Plástica e Reparadora",
+    "assunto": "Traumas de Face e Tecidos Moles"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Plástica e Reparadora",
+    "assunto": "Feridas Complexas e Úlceras"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Plástica e Reparadora",
+    "assunto": "Reconstrução Mamária"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Plástica e Reparadora",
+    "assunto": "Sequelas de Queimaduras e Reconstruçã"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Ortopedia e Traumatologia",
+    "assunto": "Osteomielite e Infecções Osteoarticulares"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Ortopedia e Traumatologia",
+    "assunto": "Síndrome Compartimental"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Neurocirurgia",
+    "assunto": "Hipertensão Intracraniana"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Neurocirurgia",
+    "assunto": "Hérnia de Disco"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Neurocirurgia",
+    "assunto": "Doença Vascular Cerebral"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Neurocirurgia",
+    "assunto": "Tumores do SNC"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Neurocirurgia",
+    "assunto": "Manejo Definitivo de Trauma Raquimedular"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Transplantes",
+    "assunto": "Morte Encefálica e Doação de Órgãos"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Transplantes",
+    "assunto": "Transplante Hepático"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Transplantes",
+    "assunto": "Transplante Renal"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Transplantes",
+    "assunto": "Manutenção do Potencial Doador e Critérios de Doação"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Transplantes",
+    "assunto": "Rejeição e Imunossupressão"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Transplantes",
+    "assunto": "Transplante Cardíaco e Pulmonar"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "CPRE e Drenagem Biliar"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Complicações da Endoscopia"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Broncoscopia e Endoscopia Respiratória"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Endoscopia Digestiva Alta"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Colonoscopia e Retossigmoidoscopia"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Cardíaca",
+    "assunto": "Revascularização Miocárdica"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Cardíaca",
+    "assunto": "Trauma Cardíaco"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Cardíaca",
+    "assunto": "Cardiopatias Congênitas"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Princípios e Tipos de Ostomias"
+  },
+  {
+    "area": "Cirurgia",
+    "tema": "Cirurgia Geral",
+    "assunto": "Complicações de Ostomias"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Intercorrências Clínicas na Gestação",
+    "assunto": "Diabetes Gestacional"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Intercorrências Clínicas na Gestação",
+    "assunto": "Sífilis na Gestação: Diagnóstico e Tratamento"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Intercorrências Clínicas na Gestação",
+    "assunto": "HIV na Gestação e Profilaxias"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Intercorrências Clínicas na Gestação",
+    "assunto": "ITU e Pielonefrite na Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Intercorrências Clínicas na Gestação",
+    "assunto": "Isoimunização Rh e Profilaxia Anti-D"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Intercorrências Clínicas na Gestação",
+    "assunto": "Hepatites B e C na Gestação: Via de Parto e Imunoprofilaxia do RN"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Intercorrências Clínicas na Gestação",
+    "assunto": "Streptococcus do Grupo B: Rastreio e Profilaxia Intraparto"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Intercorrências Clínicas na Gestação",
+    "assunto": "Cardiopatias na Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Intercorrências Clínicas na Gestação",
+    "assunto": "Tromboembolismo na Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Intercorrências Clínicas na Gestação",
+    "assunto": "Anemias na Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Intercorrências Clínicas na Gestação",
+    "assunto": "Doenças Tireoidianas na Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Intercorrências Clínicas na Gestação",
+    "assunto": "LES e Síndrome Antifosfolípide na Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Intercorrências Clínicas na Gestação",
+    "assunto": "Hiperêmese Gravídica"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Intercorrências Clínicas na Gestação",
+    "assunto": "Trombofilias na Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Intercorrências Clínicas na Gestação",
+    "assunto": "COVID-19 na Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Intercorrências Clínicas na Gestação",
+    "assunto": "Dengue na Gestação: Classificação, Manejo e Indicação de Interrupção"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Intercorrências Clínicas na Gestação",
+    "assunto": "Colestase Intra-Hepática da Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Trabalho de Parto e Parto",
+    "assunto": "Trabalho de Parto Prematuro: Corticoterapia e Tocólise"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Trabalho de Parto e Parto",
+    "assunto": "Amniorrexe Prematura: Corioamnionite e Profilaxias"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Trabalho de Parto e Parto",
+    "assunto": "Trabalho de Parto: Fases, Períodos e Assistência"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Trabalho de Parto e Parto",
+    "assunto": "Estática Fetal"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Trabalho de Parto e Parto",
+    "assunto": "Partograma e Interpretação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Trabalho de Parto e Parto",
+    "assunto": "Mecanismo de Parto"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Trabalho de Parto e Parto",
+    "assunto": "Cesariana"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Trabalho de Parto e Parto",
+    "assunto": "Parto Operatório Vaginal: Fórcipe e Vácuo Extrator"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Trabalho de Parto e Parto",
+    "assunto": "TOLAC: Parto Vaginal após Cesárea, Critérios e Risco de Rotura"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Trabalho de Parto e Parto",
+    "assunto": "Bacia Obstétrica e Pelvimetria"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Trabalho de Parto e Parto",
+    "assunto": "Pós-datismo e Gestação Prolongada"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Trabalho de Parto e Parto",
+    "assunto": "Parto Pélvico e Manobras"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Trabalho de Parto e Parto",
+    "assunto": "Manejo Ativo do Terceiro Período do Parto"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Trabalho de Parto e Parto",
+    "assunto": "Lacerações Perineais: Classificação e Reparo"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Trabalho de Parto e Parto",
+    "assunto": "Analgesia e Anestesia no Parto"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Assistência Pré-natal",
+    "assunto": "Rotina do Pré-Natal: Calendário, Suplementação e Vacinação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Assistência Pré-natal",
+    "assunto": "Modificações Fisiológicas da Gravidez"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Assistência Pré-natal",
+    "assunto": "Propedêutica do Pré-natal"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Assistência Pré-natal",
+    "assunto": "Diagnóstico e Datação da Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Assistência Pré-natal",
+    "assunto": "Exames Laboratoriais do Pré-natal"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Assistência Pré-natal",
+    "assunto": "Queixas Comuns na Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Assistência Pré-natal",
+    "assunto": "USG Obstétrica: Morfológico do 1º e 2º Trimestres e Avaliação de Crescimento"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Assistência Pré-natal",
+    "assunto": "Aspectos Legais e Sociais"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Assistência Pré-natal",
+    "assunto": "Testes de Gravidez: hCG e Métodos Diagnósticos"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Doenças Hipertensivas na Gestação",
+    "assunto": "Hipertensão Arterial Crônica na Gestação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Toxoplasmose Congênita"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Crescimento Intrauterino Restrito"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Fundamentos da Vitalidade Fetal"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Malformações Fetais"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Rastreamento e Diagnóstico Pré-Natal de Aneuploidias e Malformações"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Alterações do Líquido Amniótico"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Síndrome Congênita do Zika"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Morte Fetal e Investigação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Citomegalovírus Congênito"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Procedimentos Invasivos em Medicina Fetal"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Herpes Neonatal"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Rubéola Congênita"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Hemorragias da Gestação",
+    "assunto": "Gravidez Ectópica"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Puerpério e Aleitamento",
+    "assunto": "Infecção Puerperal"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Puerpério e Aleitamento",
+    "assunto": "Complicações Puerperais"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Puerpério e Aleitamento",
+    "assunto": "Puerpério Normal"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Cardiotocografia e Interpretação"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Sofrimento Fetal Agudo: Diagnóstico, Reanimação Intrauterina e Conduta"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Monitorização Fetal Intraparto"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Perfil Biofísico Fetal"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Classificação e Diagnóstico de Gemelares"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Complicações da Gemelaridade"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Síndrome da Transfusão Feto-Fetal"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Parto em Gestação Múltipla"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Fisiologia dos Sistemas Fetais"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Desenvolvimento Embriológico"
+  },
+  {
+    "area": "Obstetrícia",
+    "tema": "Medicina Fetal",
+    "assunto": "Imunologia na Gestação"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Oncologia Ginecológica",
+    "assunto": "Rastreamento do Colo do Útero, HPV, NIC e Colposcopia"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Oncologia Ginecológica",
+    "assunto": "Câncer de Colo Uterino"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Oncologia Ginecológica",
+    "assunto": "Câncer de Endométrio"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Oncologia Ginecológica",
+    "assunto": "Câncer de Vulva e Vagina"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Infecções Ginecológicas",
+    "assunto": "Doença Inflamatória Pélvica"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Infecções Ginecológicas",
+    "assunto": "ISTs: Diagnóstico Sindrômico e Manejo Clínico"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Infecções Ginecológicas",
+    "assunto": "Úlceras Genitais"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Infecções Ginecológicas",
+    "assunto": "Candidíase Vulvovaginal"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Infecções Ginecológicas",
+    "assunto": "Cervicites: Clamídia e Gonococo"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Mastologia",
+    "assunto": "Rastreamento do Câncer de Mama"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Mastologia",
+    "assunto": "Câncer de Mama e Tratamento"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Mastologia",
+    "assunto": "Nódulos e Massas Mamárias"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Mastologia",
+    "assunto": "Doenças Benignas da Mama"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Mastologia",
+    "assunto": "Mastites e Abcessos Mamários"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Sangramento Uterino e Dor Pélvica",
+    "assunto": "Amenorreia"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Sangramento Uterino e Dor Pélvica",
+    "assunto": "Hiperplasia Endometrial e Sangramento Pós-Menopausa"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Sangramento Uterino e Dor Pélvica",
+    "assunto": "Dor Pélvica Crônica: Abordagem Sindrômica"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Sangramento Uterino e Dor Pélvica",
+    "assunto": "Fisiologia Menstrual: Eixo Hipotálamo-Hipófise-Ovário"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Sangramento Uterino e Dor Pélvica",
+    "assunto": "Disfunções Sexuais Femininas: Desejo, Excitação e Dor"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Planejamento Familiar",
+    "assunto": "DIU e Métodos de Longa Duração"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Planejamento Familiar",
+    "assunto": "Esterilização e Laqueadura"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Planejamento Familiar",
+    "assunto": "Métodos de Barreira e Comportamentais"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Climatério e Menopausa",
+    "assunto": "Terapia Hormonal da Menopausa: Indicações e Contraindicações"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Climatério e Menopausa",
+    "assunto": "Síndrome Climatérica"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Climatério e Menopausa",
+    "assunto": "Osteoporose Pós-Menopausa"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Climatério e Menopausa",
+    "assunto": "Sintomas Vasomotores"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Sangramento Uterino e Dor Pélvica",
+    "assunto": "Miomas Uterinos"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Sangramento Uterino e Dor Pélvica",
+    "assunto": "Cistos Ovarianos"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Sangramento Uterino e Dor Pélvica",
+    "assunto": "Torção Ovariana"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Sangramento Uterino e Dor Pélvica",
+    "assunto": "Pólipos Endometriais"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Ciclo Menstrual e Endocrinologia Ginecológica",
+    "assunto": "Anatomia e Embriologia do Trato Genital Feminino"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Ciclo Menstrual e Endocrinologia Ginecológica",
+    "assunto": "Ciclo Menstrual e Endocrinologia Reprodutiva"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Ciclo Menstrual e Endocrinologia Ginecológica",
+    "assunto": "Métodos Diagnósticos em Ginecologia"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Ciclo Menstrual e Endocrinologia Ginecológica",
+    "assunto": "Exame Ginecológico: Técnica, Inspeção e Toque Bimanual"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Uroginecologia",
+    "assunto": "Prolapsos Genitais"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Uroginecologia",
+    "assunto": "Fístulas Urogenitais"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Uroginecologia",
+    "assunto": "Disfunções do Assoalho Pélvico"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Sangramento Uterino e Dor Pélvica",
+    "assunto": "Adenomiose"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Ciclo Menstrual e Endocrinologia Ginecológica",
+    "assunto": "Insuficiência Ovariana Prematura"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Ciclo Menstrual e Endocrinologia Ginecológica",
+    "assunto": "Hiperprolactinemia"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Ciclo Menstrual e Endocrinologia Ginecológica",
+    "assunto": "Hiperandrogenismo: Diagnóstico Diferencial além da SOP"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Ciclo Menstrual e Endocrinologia Ginecológica",
+    "assunto": "SOP: Critérios de Rotterdam e Fenótipos"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Ciclo Menstrual e Endocrinologia Ginecológica",
+    "assunto": "Síndrome Metabólica na SOP"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Ciclo Menstrual e Endocrinologia Ginecológica",
+    "assunto": "Tratamento da Infertilidade na SOP"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Ciclo Menstrual e Endocrinologia Ginecológica",
+    "assunto": "Propedêutica do Casal Infértil"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Ciclo Menstrual e Endocrinologia Ginecológica",
+    "assunto": "Fator Tuboperitoneal e Uterino"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Ciclo Menstrual e Endocrinologia Ginecológica",
+    "assunto": "Reprodução Assistida"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Ciclo Menstrual e Endocrinologia Ginecológica",
+    "assunto": "Fator Ovulatório"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Ciclo Menstrual e Endocrinologia Ginecológica",
+    "assunto": "Fator Masculino"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Infecções Ginecológicas",
+    "assunto": "Atendimento à Vítima de Violência Sexual"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Infecções Ginecológicas",
+    "assunto": "Aborto Legal e Aspectos Éticos"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Infecções Ginecológicas",
+    "assunto": "Profilaxia Pós-Exposição Sexual"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Infecções Ginecológicas",
+    "assunto": "Anticoncepção de Emergência"
+  },
+  {
+    "area": "Ginecologia",
+    "tema": "Sangramento Uterino e Dor Pélvica",
+    "assunto": "Síndrome Pré-Menstrual: Diagnóstico e Tratamento"
+  }
+]

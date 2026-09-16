@@ -1,0 +1,413 @@
+{
+  "version": 1,
+  "sdk_version": "2.0.4",
+  "path": "/mcp",
+  "auth": {
+    "type": "oauth",
+    "issuer": "https://fzmgfvprblpuxfygifpy.supabase.co/auth/v1",
+    "accepted_audiences": [
+      "authenticated"
+    ]
+  },
+  "mcp": {
+    "server": {
+      "name": "aplicativo-residencia",
+      "version": "0.1.0",
+      "title": "Aplicativo residencia"
+    },
+    "tools": [
+      {
+        "name": "buscar_questoes",
+        "title": "Buscar questões",
+        "description": "Busca questões do banco por trecho do enunciado, banca, ano, área, tema e/ou assunto. Permite listar apenas questões que têm imagem. Retorna id, enunciado resumido, banca, ano, classificação atual e se há imagem.",
+        "annotations": {
+          "readOnlyHint": true,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "texto": {
+              "type": "string",
+              "description": "Trecho do enunciado a procurar."
+            },
+            "banca": {
+              "type": "string",
+              "description": "Nome da banca (ex.: USP, ABRAMEDE)."
+            },
+            "ano": {
+              "type": "integer",
+              "description": "Ano da prova."
+            },
+            "area": {
+              "type": "string",
+              "description": "Nome (parcial) da grande área."
+            },
+            "tema": {
+              "type": "string",
+              "description": "Nome (parcial) do tema/especialidade."
+            },
+            "assunto": {
+              "type": "string",
+              "description": "Nome (parcial) do assunto."
+            },
+            "apenas_com_imagem": {
+              "type": "boolean",
+              "description": "Se verdadeiro, retorna somente questões que possuem imagem."
+            },
+            "limite": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 30,
+              "description": "Máximo de resultados (padrão 10, máximo 30)."
+            }
+          },
+          "additionalProperties": false,
+          "$schema": "http://json-schema.org/draft-07/schema#"
+        },
+        "outputSchema": null
+      },
+      {
+        "name": "obter_questao",
+        "title": "Obter questão completa",
+        "description": "Retorna uma questão completa pelo id: enunciado, alternativas, gabarito e comentário, quando existir.",
+        "annotations": {
+          "readOnlyHint": true,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string",
+              "description": "Id da questão."
+            }
+          },
+          "required": [
+            "id"
+          ],
+          "additionalProperties": false,
+          "$schema": "http://json-schema.org/draft-07/schema#"
+        },
+        "outputSchema": null
+      },
+      {
+        "name": "listar_temas",
+        "title": "Listar áreas e temas",
+        "description": "Lista as grandes áreas do banco e seus temas (especialidades). Informe uma área para ver apenas os temas dela.",
+        "annotations": {
+          "readOnlyHint": true,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "area": {
+              "type": "string",
+              "description": "Nome da grande área, ex.: Clínica Médica."
+            }
+          },
+          "additionalProperties": false,
+          "$schema": "http://json-schema.org/draft-07/schema#"
+        },
+        "outputSchema": null
+      },
+      {
+        "name": "estatisticas_taxonomia",
+        "title": "Estatísticas da taxonomia",
+        "description": "Retorna a contagem de questões agrupada por área → tema → assunto, da maior para a menor. Filtros opcionais por área e tema. Use para dimensionar a organização atual do banco.",
+        "annotations": {
+          "readOnlyHint": true,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "area": {
+              "type": "string",
+              "description": "Filtra por nome (parcial) da grande área."
+            },
+            "tema": {
+              "type": "string",
+              "description": "Filtra por nome (parcial) do tema/especialidade."
+            },
+            "limite": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 2000,
+              "description": "Máximo de linhas retornadas (padrão 300)."
+            }
+          },
+          "additionalProperties": false,
+          "$schema": "http://json-schema.org/draft-07/schema#"
+        },
+        "outputSchema": null
+      },
+      {
+        "name": "meu_desempenho",
+        "title": "Meu desempenho",
+        "description": "Resume o desempenho da pessoa autenticada: total de questões respondidas, acertos, erros e percentual de acertos.",
+        "annotations": {
+          "readOnlyHint": true,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {}
+        },
+        "outputSchema": null
+      },
+      {
+        "name": "criar_flashcard",
+        "title": "Criar flashcard pessoal",
+        "description": "Cria um flashcard pessoal (frente e verso) na conta da pessoa autenticada.",
+        "annotations": {
+          "readOnlyHint": false,
+          "destructiveHint": false,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "frente": {
+              "type": "string",
+              "description": "Pergunta ou termo da frente do flashcard."
+            },
+            "verso": {
+              "type": "string",
+              "description": "Resposta do verso do flashcard."
+            }
+          },
+          "required": [
+            "frente",
+            "verso"
+          ],
+          "additionalProperties": false,
+          "$schema": "http://json-schema.org/draft-07/schema#"
+        },
+        "outputSchema": null
+      },
+      {
+        "name": "editar_questao",
+        "title": "Editar questão",
+        "description": "Edita o enunciado de uma questão existente. Exige o enunciado atual para evitar sobrescrever alterações feitas depois da leitura da questão.",
+        "annotations": {
+          "readOnlyHint": false,
+          "destructiveHint": false,
+          "idempotentHint": false,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string",
+              "description": "Id da questão."
+            },
+            "enunciado_atual": {
+              "type": "string",
+              "description": "Enunciado atual da questão, exatamente como está no banco."
+            },
+            "novo_enunciado": {
+              "type": "string",
+              "minLength": 1,
+              "description": "Novo enunciado que substituirá o atual."
+            }
+          },
+          "required": [
+            "id",
+            "enunciado_atual",
+            "novo_enunciado"
+          ],
+          "additionalProperties": false,
+          "$schema": "http://json-schema.org/draft-07/schema#"
+        },
+        "outputSchema": null
+      },
+      {
+        "name": "reclassificar_questao",
+        "title": "Reclassificar questão",
+        "description": "Atualiza a classificação de uma questão: área, tema (especialidade) e assunto. Itens que não existirem na taxonomia são criados. Use para correções pontuais e pilotos de validação.",
+        "annotations": {
+          "readOnlyHint": false,
+          "destructiveHint": false,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string",
+              "description": "Id da questão."
+            },
+            "area": {
+              "type": "string",
+              "minLength": 1,
+              "description": "Nova grande área, ex.: Clínica Médica."
+            },
+            "tema": {
+              "type": "string",
+              "minLength": 1,
+              "description": "Novo tema/especialidade, ex.: Cardiologia."
+            },
+            "assunto": {
+              "type": "string",
+              "minLength": 1,
+              "description": "Novo assunto, ex.: Insuficiência Cardíaca."
+            }
+          },
+          "required": [
+            "id",
+            "area",
+            "tema",
+            "assunto"
+          ],
+          "additionalProperties": false,
+          "$schema": "http://json-schema.org/draft-07/schema#"
+        },
+        "outputSchema": null
+      },
+      {
+        "name": "listar_schema",
+        "title": "Listar estrutura do banco",
+        "description": "Retorna as tabelas do aplicativo com colunas, tipos, obrigatoriedade, chaves primárias e chaves estrangeiras. Somente leitura. Requer conta administradora.",
+        "annotations": {
+          "readOnlyHint": true,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {}
+        },
+        "outputSchema": null
+      },
+      {
+        "name": "consultar_sql",
+        "title": "Consultar SQL (somente leitura)",
+        "description": "Executa uma consulta de leitura (SELECT ou WITH) nas tabelas do aplicativo e retorna as linhas e a quantidade de resultados. Qualquer INSERT, UPDATE, DELETE, ALTER, DROP, TRUNCATE, comentário SQL ou múltiplos comandos é bloqueado. Requer conta administradora.",
+        "annotations": {
+          "readOnlyHint": true,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "sql": {
+              "type": "string",
+              "minLength": 1,
+              "description": "Consulta SQL de leitura (apenas SELECT ou WITH)."
+            },
+            "limite": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 1000,
+              "description": "Máximo de linhas retornadas (padrão 200, máximo 1000)."
+            }
+          },
+          "required": [
+            "sql"
+          ],
+          "additionalProperties": false,
+          "$schema": "http://json-schema.org/draft-07/schema#"
+        },
+        "outputSchema": null
+      },
+      {
+        "name": "executar_sql",
+        "title": "Executar SQL administrativo",
+        "description": "Executa um comando de escrita (INSERT, UPDATE ou DELETE) nas tabelas do aplicativo para corrigir taxonomia e classificação das questões, e retorna o número de linhas afetadas. Bloqueia alterações de estrutura (ALTER, DROP, CREATE, TRUNCATE, GRANT), autenticação, segredos, papéis de serviço e configurações do projeto. Um comando por chamada. Requer conta administradora.",
+        "annotations": {
+          "readOnlyHint": false,
+          "destructiveHint": true,
+          "idempotentHint": false,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "sql": {
+              "type": "string",
+              "minLength": 1,
+              "description": "Um único comando INSERT, UPDATE ou DELETE nas tabelas do aplicativo."
+            }
+          },
+          "required": [
+            "sql"
+          ],
+          "additionalProperties": false,
+          "$schema": "http://json-schema.org/draft-07/schema#"
+        },
+        "outputSchema": null
+      },
+      {
+        "name": "reclassificar_questoes_em_lote",
+        "title": "Reclassificar questões em lote",
+        "description": "Recebe uma lista de questões com id, área, tema e assunto, resolve (ou cria) os itens correspondentes da taxonomia e atualiza todas as questões em uma única operação. Aceita até 2000 itens por chamada. Requer conta administradora.",
+        "annotations": {
+          "readOnlyHint": false,
+          "destructiveHint": false,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "itens": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "description": "Id da questão."
+                  },
+                  "area": {
+                    "type": "string",
+                    "minLength": 1,
+                    "description": "Grande área, ex.: Clínica Médica."
+                  },
+                  "tema": {
+                    "type": "string",
+                    "minLength": 1,
+                    "description": "Tema/especialidade, ex.: Cardiologia."
+                  },
+                  "assunto": {
+                    "type": "string",
+                    "minLength": 1,
+                    "description": "Assunto, ex.: Insuficiência Cardíaca."
+                  }
+                },
+                "required": [
+                  "id",
+                  "area",
+                  "tema",
+                  "assunto"
+                ],
+                "additionalProperties": false
+              },
+              "minItems": 1,
+              "maxItems": 2000,
+              "description": "Lista de questões a reclassificar."
+            }
+          },
+          "required": [
+            "itens"
+          ],
+          "additionalProperties": false,
+          "$schema": "http://json-schema.org/draft-07/schema#"
+        },
+        "outputSchema": null
+      }
+    ]
+  }
+}
